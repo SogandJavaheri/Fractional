@@ -1,4 +1,4 @@
-package com.github.sogandjavaheri.FractionCalculator;
+package com.github.sogandjavaheri.Fractional;
 import java.util.Scanner;
 
 public class Fractional {
